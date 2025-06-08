@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342027645199",
+    "project_id": "annam-e3161",
+    "storage_bucket": "annam-e3161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342027645199:android:6ebae9585ed8e7474fce7a",
+        "android_client_info": {
+          "package_name": "com.example.annam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZQl81V7StEAPHugBbdtMNAe5HnoMQOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

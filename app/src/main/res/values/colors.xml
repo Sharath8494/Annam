@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="gray">#2d2d2d</color>
+    <color name="zircon">#e0e6e4</color>
+    <color name="red">#800000</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#fff</color>
+    <color name="colorPrimary">#3E50B4</color> <!-- A rich blue -->
+    <color name="colorPrimaryDark">#303F9F</color> <!-- Darker blue -->
+    <color name="colorAccent">#FFC107</color> <!-- Vibrant yellow for accents -->
+    <color name="backgroundLight">#F5F5F5</color> <!-- A soft, clean background color -->
+
+</resources>

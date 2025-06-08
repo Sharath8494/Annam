@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for Light Mode. -->
+    <style name="Theme.AAHAARAPP" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item> <!-- Light primary color -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:windowBackground">@color/backgroundLight</item>
+    </style>
+
+    <style name="Theme.AAHAARAPP.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.AAHAARAPP.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.ActionBar" /> <!-- Changed parent theme -->
+
+    <style name="Theme.AAHAARAPP.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Light" /> <!-- Changed parent theme -->
+</resources>
